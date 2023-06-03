@@ -23,7 +23,6 @@ If my interests align with yours, or if you want to explore new digital frontier
 ## 💰 Support
 
 All support is welcome and helps me to stay focused on my projects:
-🔷 Ethereum: 0x7FF4408Bf503Cdd3991771a18E8F8C364eACE215
 
-So, come in, explore, and let's shape the future of the digital world, block by block 🌍.
+🔷 Ethereum: 0x7FF4408Bf503Cdd3991771a18E8F8C364eACE215
 

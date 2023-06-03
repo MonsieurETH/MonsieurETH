@@ -20,7 +20,10 @@ If my interests align with yours, or if you want to explore new digital frontier
 
 ![https://twitter.com/monsieurETH](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white). 
 
-Let's ride this wave of blockchain revolution together!
+## 💰 Support
+
+All support is welcome and helps me to stay focused on my projects:
+🔷 Ethereum: 0x7FF4408Bf503Cdd3991771a18E8F8C364eACE215
 
 So, come in, explore, and let's shape the future of the digital world, block by block 🌍.
 
